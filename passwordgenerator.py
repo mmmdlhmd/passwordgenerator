@@ -8,6 +8,8 @@ import re
 import string
 import random
 
+# TODO (Addition of the test)
+
 p=[]
 k=[]
 
@@ -69,8 +71,7 @@ elif (an=="n" or an=="N") and (sc=="y" or sc=="Y"):
 
 elif (an=="n" or an=="N") and (sc=="n" or sc=="N"):
     print("Please try again")
-else:
-    print("Please try again")
+
 
 
 
